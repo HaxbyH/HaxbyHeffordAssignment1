@@ -11,6 +11,7 @@ Creating Index:
 
 2. java Indexer (With parse.txt) included
 
+
 Running Search Engine:
 
 1. Make sure that Search.java is included in file that has the following
@@ -19,5 +20,11 @@ Running Search Engine:
 2. Run using time java Search < "query.txt"
 
 3. Or java Search (then enter queries from terminal)
+
+index, pointers.txt, postings.txt can be found in the computer science system at:
+
+/something/something/something
+
+
 
 
