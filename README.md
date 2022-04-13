@@ -14,7 +14,7 @@ Creating Index:
 
 Running Search Engine:
 
-1. Make sure that Search.java is included in file that has the following
+1. Make sure that Search.java, WordIndex.java, and TotalTerms.java are included in file that has the following
    (pointers.txt, postings.txt, index, TotalTerms.java, WordIndex.txt)
    
 2. Run using time java Search < "query.txt"
@@ -23,7 +23,7 @@ Running Search Engine:
 
 index, pointers.txt, postings.txt can be found in the computer science system at:
 
-/something/something/something
+/Users/hefha010/Desktop/COSC431
 
 
 
