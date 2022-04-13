@@ -24,7 +24,9 @@ Running Search Engine:
 index, pointers.txt, postings.txt can be found in the computer science system at:
 
 /Users/hefha010/Desktop/COSC431/index
+
 /Users/hefha010/Desktop/COSC431/pointers.txt
+
 /Users/hefha010/Desktop/COSC431/postings.txt
 
 
